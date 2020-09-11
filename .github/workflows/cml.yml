@@ -16,4 +16,4 @@ jobs:
           python train.py
           
           echo "Model Metrics"
-          cat metric.txt
+          cat metrics.txt
